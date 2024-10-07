@@ -230,4 +230,4 @@ Tot i de l’existència dels llenguatges multipropòsit, l’opció ideal serà
 
 A continuació trobareu la llista dels 10 llenguatges de programació més utilitzats (setembre 2024), de tota la llista de **[llenguatges de programació existents](https://www.techrepublic.com/article/tiobe-index-language-rankings/)**.
 
-[![](Img/Llenguatges.jpg)](https://lh3.googleusercontent.com/aveseJGbC9Z6BnHCfzcGctQCUExj8uWI3xeZY_FMljZtKCVOOxHcY5UmdkhyOnyYUNmvLhyc47dbYB2u2x67x-VcHyaFqg3PgOSy3H5MsZ4YHpY8-Toa92K92hazJ2FJuQ=w1280)
+[![](Img/Llenguatges.jpg)](https://www.techrepublic.com/article/tiobe-index-language-rankings/)
